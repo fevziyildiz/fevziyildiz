@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Azure Devops
+- 🌱 I’m currently learning Teraform
+- 👯 I’m looking to collaborate on test
+
+https://onboardtoazure.com
+
+
+
 <!--
 **fevziyildiz/fevziyildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
